@@ -1,9 +1,18 @@
-.box {
+.box1 {
     width: 100px;
     height: 100px;
-    color: blue;
+    background-color: blue;
 }
-
+.box2 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+.box3 {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+}
 .container {
-background: lightgray;    
+background-color: lightgray;    
 }
